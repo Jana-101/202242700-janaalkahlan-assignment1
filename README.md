@@ -13,7 +13,7 @@ The website includes an About section, Projects section, Skills section, and a C
 ## 🛠 Technologies Used
 - HTML 
 - CSS3  
-- JavaScript (Vanilla JS)
+- JavaScript
 
 ---
 
