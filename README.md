@@ -52,10 +52,8 @@ No additional setup or dependencies are required.
 ---
 
 ## 🤖 AI Usage Summary
-AI tools were used to assist with understanding the assignment requirements, planning the project structure, and reviewing HTML, CSS, and JavaScript code.  
-Detailed documentation of AI usage, benefits, challenges, and responsible use is provided in:
-
-docs/ai-usage-report.md
+AI tools (ChatGPT and Claude) were used to support understanding the assignment requirements and reviewing the project structure and code.
+Detailed information about AI usage is documented in docs/ai-usage-report.md.
 
 ---
 
